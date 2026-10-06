@@ -12,6 +12,7 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 11px;
 }
+p { }
 
 .container {
     width: 1000px;
